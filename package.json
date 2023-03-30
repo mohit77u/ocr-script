@@ -1,0 +1,18 @@
+{
+  "name": "image-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "tesseract.js": "^4.0.3",
+    "text-from-image": "^1.1.1"
+  }
+}
